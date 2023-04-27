@@ -1,0 +1,9 @@
+1 - Digitar - Codar - 4 - 27/04/2023 - Fazendo
+2 - Contatos - Trabalho - 3 - 26/04/2023 - Fazer
+3 - Teste id - Testando id - 1 - 26/04/2023 - Fazendo
+4 - Incrementar ID 5 - Increments Edit - 4 - 27/04/2023 - Fazendo
+5 - Incrementa ID 6 - Increments - 3 - 26/04/2023 - Fazendo
+6 - Incrementa id 7 - Increments - 2 - 26/04/2023 - Fazendo
+7 - Validator Teste - Validator - 5 - 26/04/2023 - Fazendo
+8 - Teste Noite - Noite - 2 - 27/04/2023 - Fazendo
+9 - Tarefa Viewer - Viewer - 1 - 27/04/2023 - Fazendo
