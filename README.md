@@ -3,11 +3,11 @@
 <p align="center">Programa para gerenciamento de tarefas</p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Version](https://img.shields.io/badge/version-v1.3.0-blue) 
+![Version](https://img.shields.io/badge/version-v2.2.0-blue) 
 
 Indice
 =================
@@ -20,7 +20,7 @@ Indice
 
 ## 🔖&nbsp; Sobre
 
-O projeto **TODO List** é uma programa para gerenciamento de tarefas. Nele podemos fazer um CRUD em um arquivo .txt para adicionar, ler, editar e apagar tarefas do nosso dia a dia usando apenas o terminal da IDE. 
+O projeto **TODO List** é uma programa para gerenciamento de tarefas. Nele podemos fazer um CRUD em um arquivo .txt para adicionar, ler, editar e apagar tarefas do nosso dia a dia, além de ter a opção de adicionar um alerta quando a data de entrega estiver próxima, usando apenas o terminal da IDE. 
 
 ---
 
@@ -85,9 +85,10 @@ Alarmes:
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Java
+- Gradle
 - JavaScript
 - HTML5
-- CSS3 + Cloudflare
+- CSS3
 
 ---
 
@@ -101,7 +102,7 @@ Além disto é bom ter um editor para trabalhar com o código como [ItelliJ IDEA
 
 ```bash
 # Clone este repositório
-git clone https://github.com/CirNNe/todo-list-java.git
+git clone https://github.com/CirNNe/todo-list.git
 # Abra o arquivo com sua IDE de preferencia e execute os comandos que desejar
 # O menu no terminal é bem intuitivo
 ```
